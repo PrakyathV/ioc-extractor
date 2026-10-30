@@ -1,0 +1,19 @@
+# Local system logs and downloaded datasets
+data/local_logs/
+data/real_logs/
+
+# Generated reports
+output/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store

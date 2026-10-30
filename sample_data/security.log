@@ -1,0 +1,10 @@
+2026-10-30 09:15:22 ALERT Connection from 192.0.2.45 to suspicious domain malware-test.example
+2026-10-30 09:16:10 WARNING Suspicious URL detected: http://malware-test.example/payload
+2026-10-30 09:17:05 ALERT File MD5 hash: 5d41402abc4b2a76b9719d911017c592
+2026-10-30 09:18:33 ALERT File SHA1 hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+2026-10-30 09:19:40 ALERT File SHA256 hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-10-30 09:20:15 WARNING Connection from 198.51.100.23
+2026-10-30 09:21:50 ALERT Suspicious domain: suspicious-login.example
+2026-10-30 09:22:30 WARNING URL detected: https://suspicious-login.example/auth
+2026-10-30 09:23:10 ALERT Repeated connection from 192.0.2.45
+2026-10-30 09:24:45 INFO Normal user login successful
